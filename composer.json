@@ -1,0 +1,8 @@
+{
+  "name": "blog-yii",
+  "type": "project",
+  "description": "Introduction to Yii",
+  "autoload": {
+    "classmap": [ "vendor/yii/framework/yii.php", "vendor/yii/framework/yii.php" ]
+  }
+}
